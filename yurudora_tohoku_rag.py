@@ -8,6 +8,9 @@
 必要パッケージ:
   pip install google-genai pydantic requests numpy
 """
+#web公開用
+pip install streamlit
+#web公開用
 
 from __future__ import annotations
 
