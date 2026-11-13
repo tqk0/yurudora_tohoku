@@ -11,6 +11,7 @@
 #web公開用
 pip install streamlit
 #web公開用
+streamlit hello
 
 from __future__ import annotations
 
